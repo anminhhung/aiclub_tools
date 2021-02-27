@@ -1,0 +1,4 @@
+easydict==1.9.0
+opencv-python==3.4.7.28
+Flask==1.1.2
+pyyaml==5.4.1
